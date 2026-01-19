@@ -8,7 +8,7 @@
 6.  | Load balancer name | <span style="font-weight: 400; background-color: rgb(16, 21, 26);">Follow an appropriate convention. e.g. organization-name-project title-lb.</span> |
     | --- | --- |
     | Scheme | Internet-facing |
-    | Availability Zones and subnets | Select Ireland |
+    | Availability zones and subnets | Select zones in Ireland |
     | Load balancer IP address type | IPv4 |
     | Security groups | Select the security group |
     | Target group | Create target group  <br><br/>e.g. se-name-app-tg |
