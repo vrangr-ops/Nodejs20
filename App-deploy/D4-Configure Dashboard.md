@@ -22,7 +22,7 @@
     
 5.  Choose a metric category (for example, **Per-Instance Metrics**).
     
-6.  ![_resources/cpuutil.png]
+6.  ![_resources/cpuutil.png](https://github.com/vrangr-ops/App-development/blob/main/_resources/cpuutil.png)
 7.  Search the instance that you want listed for **CPUUtilization**.
     
 8.  Under **Conditions**, specify the following:
