@@ -53,7 +53,7 @@ Use Bash terminal (gitbash)
 \# enable nginx - to make it start up on boot
 
 - `sudo systemctl enable nginx`
-- Test http connection- select open adress
+- Test http connection- select open address
     1.  ![0f8ba57853f94d7c25ea3d45ea161aed.png](../../_resources/0f8ba57853f94d7c25ea3d45ea161aed.png)
 
 ## Deploying Nodejs to EC2
