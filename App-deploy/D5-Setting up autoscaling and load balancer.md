@@ -5,7 +5,8 @@
 3.  Create load balancer
 4.  Load balancer types: Select Application Load Balancer
 5.  Configure as below
-6.  | Load balancer name | <span style="font-weight: 400; background-color: rgb(16, 21, 26);">Follow an appropriate convention. e.g. organization-name-project title-lb.</span> |
+   
+7.  | Load balancer name | <span style="font-weight: 400; background-color: rgb(16, 21, 26);">Follow an appropriate convention. e.g. organization-name-project title-lb.</span> |
     | --- | --- |
     | Scheme | Internet-facing |
     | Availability zones and subnets | Select zones in Ireland |
