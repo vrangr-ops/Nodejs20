@@ -34,9 +34,9 @@
     - ![_resources/Conditions.png](https://github.com/vrangr-ops/App-development/blob/main/_resources/Conditions.png)
 9.  Under **Notification**, choose **In alarm** 
     
-10. Select an existing SNS topic - add email address
-11. send notification to email
-
+10. Select an existing SNS topic - add your email address
+11. Select send notification to email
+    ![](https://github.com/vrangr-ops/App-development/blob/main/_resources/email.png)
 
 
 12\. Email notification should be sent should look like the example below
