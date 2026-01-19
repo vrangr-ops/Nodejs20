@@ -55,7 +55,7 @@ Then select create load balancer
 
 <img src="../../_resources/3a9c74c5ebde6243bcb549f61212cc38.png" alt="3a9c74c5ebde6243bcb549f61212cc38.png" width="833" height="303" class="jop-noMdConv">
 
-7\. Add tags
+7\. Add tags - give a tag that can be easily searched
 
 ![eb16c5633886bb806de7ec5cf8be3187.png](../../_resources/eb16c5633886bb806de7ec5cf8be3187.png)
 
