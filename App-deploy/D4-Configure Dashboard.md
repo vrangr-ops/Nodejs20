@@ -49,11 +49,11 @@
 
 **Overview of config for alarm and complete dashboard**
 
-<img src="../../_resources/0fd74009b06cf43d20c345c33959b18c.png" alt="0fd74009b06cf43d20c345c33959b18c.png" width="835" height="378" class="jop-noMdConv">
+![](https://github.com/vrangr-ops/App-development/blob/main/_resources/0fd74009b06cf43d20c345c33959b18c.png) width="835" height="378" class="jop-noMdConv">
 
 &nbsp;
 
-![](https://github.com/vrangr-ops/App-development/blob/main/_resources/0fd74009b06cf43d20c345c33959b18c.png)
+
 
 &nbsp;
 
